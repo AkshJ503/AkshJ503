@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AkshJ503
 - 👀 I’m interested in to anlyze code 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on to contribute my self
 - 📫 How to reach me mail-acjadhav503@gmail.com
 - 😄 Pronouns: Aksh
 
