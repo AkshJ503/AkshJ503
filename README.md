@@ -13,7 +13,7 @@
 - React.js, GitHub, Cloud Technologies, and Automation
 
 ### 📧 How to Reach Me:
-akshay.jadhav@email.com  
+acjadhav503@email.com  
 
 ---
 
